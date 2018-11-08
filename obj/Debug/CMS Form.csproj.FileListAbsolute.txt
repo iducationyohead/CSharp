@@ -1,0 +1,10 @@
+C:\Users\thebi\Desktop\Languages\Projects\CMS Form\CMS Form\bin\Debug\CMS Form.exe.config
+C:\Users\thebi\Desktop\Languages\Projects\CMS Form\CMS Form\bin\Debug\CMS Form.exe
+C:\Users\thebi\Desktop\Languages\Projects\CMS Form\CMS Form\bin\Debug\CMS Form.pdb
+C:\Users\thebi\Desktop\Languages\Projects\CMS Form\CMS Form\obj\Debug\CMS Form.csprojAssemblyReference.cache
+C:\Users\thebi\Desktop\Languages\Projects\CMS Form\CMS Form\obj\Debug\CMS_Form.Form1.resources
+C:\Users\thebi\Desktop\Languages\Projects\CMS Form\CMS Form\obj\Debug\CMS_Form.Properties.Resources.resources
+C:\Users\thebi\Desktop\Languages\Projects\CMS Form\CMS Form\obj\Debug\CMS Form.csproj.GenerateResource.cache
+C:\Users\thebi\Desktop\Languages\Projects\CMS Form\CMS Form\obj\Debug\CMS Form.csproj.CoreCompileInputs.cache
+C:\Users\thebi\Desktop\Languages\Projects\CMS Form\CMS Form\obj\Debug\CMS Form.exe
+C:\Users\thebi\Desktop\Languages\Projects\CMS Form\CMS Form\obj\Debug\CMS Form.pdb

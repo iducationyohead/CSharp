@@ -83,5 +83,16 @@ namespace CMS_Form
         {
 
         }
-    }
+
+        private void SaveButton_Click(object sender, EventArgs e)
+        {
+            this.table1TableAdapter.Update(this.database6DataSet.Table1);
+        }
+
+        private void CancelButton_Click(object sender, EventArgs e)
+        {
+            this.database6DataSet.Table1.CancelEdit();
+
+        }
+    }  
 }

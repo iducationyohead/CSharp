@@ -10,6 +10,8 @@
 
 #pragma warning disable 1591
 
+using System;
+
 namespace CMS_Form {
     
     
@@ -710,6 +712,11 @@ namespace CMS_Form {
                 }
                 xs.Add(dsSchema);
                 return type;
+            }
+
+            internal void CancelEdit()
+            {
+                throw new NotImplementedException();
             }
         }
         
